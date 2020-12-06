@@ -1,2 +1,2 @@
 # nizamuddin.github.io
- my portfoloi
+ my portfolio
